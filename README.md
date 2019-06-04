@@ -1,9 +1,7 @@
 ---
-
 :question: Questo file contiene la spiegazione dei vari campi. Per avere un
 template pronto all'uso si veda [README.template.md](README.template.md)
 :question:
-
 ---
 
 # Badges
@@ -81,6 +79,18 @@ dell'ambiente di sviluppo, i dev tool da utilizzare etc. ci sarà una sezione
 dedicata più sotto.
 
 
+# Come installare
+
+Per permettere ad un utente di fruire del software è necessario fornire alcune
+informazioni relative alle modalità di installazione del software. 
+
+# Documentazione
+
+E' possibile includere nel README parte della documentazione ma è buona norma
+inserire per lo più link a risorse esterne contenenti la documentazione estesa
+vera e propria. Questo per rendere questo file il più scorrevole possibile
+e non appesantirlo con informazioni che potrebbero stare altrove. 
+
 # Segnalazione bug e richieste di aiuto
 
 E' importante comunicare all'utente quali sono gli strumenti utili per
@@ -108,6 +118,19 @@ attivamente al codice sorgente contenuto nel repository.
 Le informazioni devono servire sia ad eseguire il setup dei tool di sviluppo
 necessari che per quanto riguarda le configurazioni di dev. 
 
+# Community
+
+Per stimolare la creazione di una vera e propria community intorno al progetto
+è possibile utilizzare degli strumenti di comunicazione, quali ad esempio
+[Gitter](https://gitter.im) o [Slack](https://slack.com). 
+
+# Maintenance 
+
+La sezione `maintenance` permette di identificare rapidamente se attualmente il
+software è manutenuto o meno. In caso positivo, è possibile indicare i nomi
+e, eventualmente, un metodo di contatto.
+
+
 # Code of conduct
 
 Il Code of Conduct regolamenta le interazioni tra i vari attori di un
@@ -127,6 +150,31 @@ Esistono diverse modalità di versionamento, una tra le più utilizzate
 è [Semantic Versioning](https://semver.org/). 
 
 # Licensing
-# Autori e Copyright
+
+La sezione di licensing si divide in diverse parti. Innanzitutto deve essere
+chiaramente indicata la licenza scelta per questo repository. Dopodichè
+è necessario indicare gli autori e chi detiene il copyright.
+
 ## Licenza generale 
+Di norma, la licenza è indicata in modo abbreviato nel file README in quanto la
+sua versione estesa è presente in un file dedicato chiamato `LICENSE.md`
+presente, di norma, nella root del repository.  Per avere un aiuto nel percorso
+di scelta di una licenza è possibile visitare
+[Choose a License](https://choosealicense.com/).
+
+# Autori e Copyright
+
+La sezione dedicata agli autori è altresì importante in quanto contiene i nomi
+e i contatti (email) degli autori. 
+Non bisogna dimenticare di esplicitare chi detiene il copyright e in quale
+parte. 
+Per indicare una community o un gruppo di sviluppatori è anche possibile usare
+la formulazione `Linus Torvalds and all Linux contributors`.
+
 ## Licenze software dei componenti di terze parti
+
+Nel caso in cui il software utilizzasse componenti di terze parti, bisogna
+indicarne le licenze dei singoli. Questa operazione potrebbe essere
+particolarmente lunga o laboriosa da riportare e quindi è possibile avvalersi
+di alcuni tool automatici di supporto. 
+Un esempio di questi tool può essere [FOSSA](https://fossa.com/pricing/). 
