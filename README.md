@@ -110,8 +110,21 @@ necessari che per quanto riguarda le configurazioni di dev.
 
 # Code of conduct
 
+Il Code of Conduct regolamenta le interazioni tra i vari attori di un
+repository. Tendenzialmente è bene che questo incoraggi qualsiasi tipo di
+contribuzione. Esistono diversi template già preimpostati che, dopo attenta
+analisi, si possono incorporare nel proprio progetto. Uno tra questi è la
+[Contributor Covenant](https://www.contributor-covenant.org/). 
 
 # Semantic Versioning
+
+Il versionamento del proprio software è una fase delicata che deve
+possibilmente essere quanto più documentata possibile. Cambiare la modalità di
+versionamento di un software in corso d'opera può non solo confondere gli
+utenti ma potenzialmente potrebbe causare problemi ad altri software che
+inseriscono questo progetto come dipendenza. 
+Esistono diverse modalità di versionamento, una tra le più utilizzate
+è [Semantic Versioning](https://semver.org/). 
 
 # Licensing
 # Autori e Copyright
