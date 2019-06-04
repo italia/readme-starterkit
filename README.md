@@ -14,17 +14,23 @@ Tendenzialmente è possibile trovare i badge su
 si possono trovare all'interno delle interfacce dei servizi utilizzati, come ad
 esempio circleci.
 
-Alcuni esempi di badge usati in `/italia`, ovviamente da personalizzare per il
-proprio caso d'uso:
+Per quanto riguarda `/italia`, alcuni badge sono da inserire in tutti i repo
+mentre altri sono opzionali. 
+Quelli da inserire sono i seguenti:
 
 ```
-[![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/blob/master/LICENSE)
-[![CircleCI](https://circleci.com/gh/italia/bootstrap-italia/tree/master.svg?style=svg)](https://circleci.com/gh/italia/bootstrap-italia/tree/master)
-[![GitHub issues](https://img.shields.io/github/issues/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/issues)
-[![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7VPAUVB3/)
-[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
+LICENZA - [![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/blob/master/LICENSE)
+ISSUES - [![GitHub issues](https://img.shields.io/github/issues/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/issues)
+SLACK - [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7VPAUVB3/)
+SLACK - [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
+FORUM - [![18app on forum.italia.it](https://img.shields.io/badge/Forum-18app-blue.svg)](https://forum.italia.it/c/18app-carta-docente)
+```
+
+Di seguito, invece, ci sono degli esempi di altri badge facoltativi ovviamente
+da personalizzare per il proprio caso d'uso:
+
+```
 [![Chat on Gitter](https://img.shields.io/gitter/room/italia/bootstrap-italia.svg)](https://gitter.im/bootstrap-Italia)
-[![18app on forum.italia.it](https://img.shields.io/badge/Forum-18app-blue.svg)](https://forum.italia.it/c/18app-carta-docente)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4bfe698a793a4270b9bac004515225a3)](https://www.codacy.com/app/cloudify/italia-app?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=teamdigitale/italia-app&amp;utm_campaign=Badge_Grade)
 [![dependencies](https://david-dm.org/teamdigitale/italia-app/status.svg)](https://david-dm.org/teamdigitale/italia-app)
 [![CircleCI](https://circleci.com/gh/teamdigitale/italia-app.svg?style=svg)](https://circleci.com/gh/teamdigitale/italia-app)
