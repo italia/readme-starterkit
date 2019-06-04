@@ -1,5 +1,3 @@
-# Badges
-
 [![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/blob/master/LICENSE)
 [![CircleCI](https://circleci.com/gh/italia/bootstrap-italia/tree/master.svg?style=svg)](https://circleci.com/gh/italia/bootstrap-italia/tree/master)
 [![GitHub issues](https://img.shields.io/github/issues/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/issues)
@@ -28,8 +26,8 @@
 # Indice
 
 - [Come iniziare](#come-iniziare)
-- [Documentazione](#documentazione)
 - [Come contribuire](#come-contribuire)
+- [Manutenzione](#manutenzione)
 - [Licenza](#licenza)
 
 # Come iniziare
@@ -46,9 +44,9 @@
 
 ### Segnalazione bug e richieste di aiuto
 
-# Maintenance 
+# Manutenzione 
 
-# Licensing
+# Licenza 
 
 ## Licenza generale 
 
