@@ -1,7 +1,7 @@
----
 :question: Questo file contiene la spiegazione dei vari campi. Per avere un
 template pronto all'uso si veda [README.template.md](README.template.md)
 :question:
+
 ---
 
 # Badges
