@@ -80,7 +80,7 @@ dedicata più sotto.
 Per permettere ad un utente di fruire del software è necessario fornire alcune
 informazioni relative alle modalità di installazione del software. 
 
-# Documentazione
+## Documentazione
 
 E' possibile includere nel README parte della documentazione ma è buona norma
 inserire per lo più link a risorse esterne contenenti la documentazione estesa
@@ -96,7 +96,21 @@ attivamente al codice sorgente contenuto nel repository.
 Le informazioni devono servire sia ad eseguire il setup dei tool di sviluppo
 necessari che per quanto riguarda le configurazioni di dev. 
 
-## Segnalazione bug e richieste di aiuto
+## Community
+
+Per stimolare la creazione di una vera e propria community intorno al progetto
+è possibile utilizzare degli strumenti di comunicazione, quali ad esempio
+[Gitter](https://gitter.im) o [Slack](https://slack.com). 
+
+### Code of conduct
+
+Il Code of Conduct regolamenta le interazioni tra i vari attori di un
+repository. Tendenzialmente è bene che questo incoraggi qualsiasi tipo di
+contribuzione. Esistono diversi template già preimpostati che, dopo attenta
+analisi, si possono incorporare nel proprio progetto. Uno tra questi è la
+[Contributor Covenant](https://www.contributor-covenant.org/). 
+
+### Segnalazione bug e richieste di aiuto
 
 E' importante comunicare all'utente quali sono gli strumenti utili per
 comunicare con il maintainer e gli sviluppatori. In questa sezione è bene
@@ -115,27 +129,6 @@ GitHub mette a disposizione uno strumento di "guida" per la creazione di questo
 template, si veda [questo
 link](https://help.github.com/en/articles/creating-issue-templates-for-your-repository).
 
-## Community
-
-Per stimolare la creazione di una vera e propria community intorno al progetto
-è possibile utilizzare degli strumenti di comunicazione, quali ad esempio
-[Gitter](https://gitter.im) o [Slack](https://slack.com). 
-
-### Code of conduct
-
-Il Code of Conduct regolamenta le interazioni tra i vari attori di un
-repository. Tendenzialmente è bene che questo incoraggi qualsiasi tipo di
-contribuzione. Esistono diversi template già preimpostati che, dopo attenta
-analisi, si possono incorporare nel proprio progetto. Uno tra questi è la
-[Contributor Covenant](https://www.contributor-covenant.org/). 
-
-## Maintenance 
-
-La sezione `maintenance` permette di identificare rapidamente se attualmente il
-software è manutenuto o meno. In caso positivo, è possibile indicare i nomi
-e, eventualmente, un metodo di contatto.
-
-
 ### Semantic Versioning
 
 Il versionamento del proprio software è una fase delicata che deve
@@ -146,9 +139,15 @@ inseriscono questo progetto come dipendenza.
 Esistono diverse modalità di versionamento, una tra le più utilizzate
 è [Semantic Versioning](https://semver.org/). 
 
+# Manutenzione 
+
+La sezione `manutenzione` permette di identificare rapidamente se attualmente il
+software è manutenuto o meno. In caso positivo, è possibile indicare i nomi
+e, eventualmente, un metodo di contatto.
+
 ---
 
-# Licensing
+# Licenza 
 
 La sezione di licensing si divide in diverse parti. Innanzitutto deve essere
 chiaramente indicata la licenza scelta per questo repository. Dopodichè
