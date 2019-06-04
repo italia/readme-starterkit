@@ -53,11 +53,8 @@ Siccome un'immagine vale più di mille parole, è buona norma inserire degli
 screenshot dell'applicativo in modo tale da comunicare visivamente il layout
 e/o alcune funzionalità del sito. 
 E' anche possibile creare GIF animate che possono essere molto esplicative. Per
-farlo si può utilizzare ad esempio:
+farlo si può utilizzare ad esempio [Recordit](http://recordit.co/).
 
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
 
 # Indice
 
@@ -78,7 +75,6 @@ Per le informazioni su come contribuire e quindi ad esempio come fare il setup
 dell'ambiente di sviluppo, i dev tool da utilizzare etc. ci sarà una sezione
 dedicata più sotto.
 
-
 ## Come installare
 
 Per permettere ad un utente di fruire del software è necessario fornire alcune
@@ -90,6 +86,8 @@ E' possibile includere nel README parte della documentazione ma è buona norma
 inserire per lo più link a risorse esterne contenenti la documentazione estesa
 vera e propria. Questo per rendere questo file il più scorrevole possibile
 e non appesantirlo con informazioni che potrebbero stare altrove. 
+
+---
 
 # Come contribuire
 
@@ -117,14 +115,13 @@ GitHub mette a disposizione uno strumento di "guida" per la creazione di questo
 template, si veda [questo
 link](https://help.github.com/en/articles/creating-issue-templates-for-your-repository).
 
-
 ## Community
 
 Per stimolare la creazione di una vera e propria community intorno al progetto
 è possibile utilizzare degli strumenti di comunicazione, quali ad esempio
 [Gitter](https://gitter.im) o [Slack](https://slack.com). 
 
-# Code of conduct
+### Code of conduct
 
 Il Code of Conduct regolamenta le interazioni tra i vari attori di un
 repository. Tendenzialmente è bene che questo incoraggi qualsiasi tipo di
@@ -132,14 +129,14 @@ contribuzione. Esistono diversi template già preimpostati che, dopo attenta
 analisi, si possono incorporare nel proprio progetto. Uno tra questi è la
 [Contributor Covenant](https://www.contributor-covenant.org/). 
 
-# Maintenance 
+## Maintenance 
 
 La sezione `maintenance` permette di identificare rapidamente se attualmente il
 software è manutenuto o meno. In caso positivo, è possibile indicare i nomi
 e, eventualmente, un metodo di contatto.
 
 
-## Semantic Versioning
+### Semantic Versioning
 
 Il versionamento del proprio software è una fase delicata che deve
 possibilmente essere quanto più documentata possibile. Cambiare la modalità di
@@ -148,6 +145,8 @@ utenti ma potenzialmente potrebbe causare problemi ad altri software che
 inseriscono questo progetto come dipendenza. 
 Esistono diverse modalità di versionamento, una tra le più utilizzate
 è [Semantic Versioning](https://semver.org/). 
+
+---
 
 # Licensing
 
