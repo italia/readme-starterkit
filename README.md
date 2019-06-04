@@ -39,7 +39,7 @@ Il titolo del repository.
 
 > Sottotitolo / Slogan / Descrizione breve
 
-# Multilanguage
+## Multilanguage
 E' buona norma avere una versione del README anche in lingua inglese. 
 Per notificare la presenza di un altro file chiamato ad esempio `README.EN.md`,
 usare questa formula:
@@ -59,7 +59,7 @@ farlo si può utilizzare ad esempio:
 
 ![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
 
-## Indice
+# Indice
 
 Per avere un indice, è possibile usare questo formato:
 
@@ -79,7 +79,7 @@ dell'ambiente di sviluppo, i dev tool da utilizzare etc. ci sarà una sezione
 dedicata più sotto.
 
 
-# Come installare
+## Come installare
 
 Per permettere ad un utente di fruire del software è necessario fornire alcune
 informazioni relative alle modalità di installazione del software. 
@@ -91,7 +91,14 @@ inserire per lo più link a risorse esterne contenenti la documentazione estesa
 vera e propria. Questo per rendere questo file il più scorrevole possibile
 e non appesantirlo con informazioni che potrebbero stare altrove. 
 
-# Segnalazione bug e richieste di aiuto
+# Come contribuire
+
+Questa sezione contiene le informazioni necessarie a chi vuole contribuire
+attivamente al codice sorgente contenuto nel repository. 
+Le informazioni devono servire sia ad eseguire il setup dei tool di sviluppo
+necessari che per quanto riguarda le configurazioni di dev. 
+
+## Segnalazione bug e richieste di aiuto
 
 E' importante comunicare all'utente quali sono gli strumenti utili per
 comunicare con il maintainer e gli sviluppatori. In questa sezione è bene
@@ -111,25 +118,11 @@ template, si veda [questo
 link](https://help.github.com/en/articles/creating-issue-templates-for-your-repository).
 
 
-# Come contribuire
-
-Questa sezione contiene le informazioni necessarie a chi vuole contribuire
-attivamente al codice sorgente contenuto nel repository. 
-Le informazioni devono servire sia ad eseguire il setup dei tool di sviluppo
-necessari che per quanto riguarda le configurazioni di dev. 
-
-# Community
+## Community
 
 Per stimolare la creazione di una vera e propria community intorno al progetto
 è possibile utilizzare degli strumenti di comunicazione, quali ad esempio
 [Gitter](https://gitter.im) o [Slack](https://slack.com). 
-
-# Maintenance 
-
-La sezione `maintenance` permette di identificare rapidamente se attualmente il
-software è manutenuto o meno. In caso positivo, è possibile indicare i nomi
-e, eventualmente, un metodo di contatto.
-
 
 # Code of conduct
 
@@ -139,7 +132,14 @@ contribuzione. Esistono diversi template già preimpostati che, dopo attenta
 analisi, si possono incorporare nel proprio progetto. Uno tra questi è la
 [Contributor Covenant](https://www.contributor-covenant.org/). 
 
-# Semantic Versioning
+# Maintenance 
+
+La sezione `maintenance` permette di identificare rapidamente se attualmente il
+software è manutenuto o meno. In caso positivo, è possibile indicare i nomi
+e, eventualmente, un metodo di contatto.
+
+
+## Semantic Versioning
 
 Il versionamento del proprio software è una fase delicata che deve
 possibilmente essere quanto più documentata possibile. Cambiare la modalità di
@@ -162,7 +162,7 @@ presente, di norma, nella root del repository.  Per avere un aiuto nel percorso
 di scelta di una licenza è possibile visitare
 [Choose a License](https://choosealicense.com/).
 
-# Autori e Copyright
+## Autori e Copyright
 
 La sezione dedicata agli autori è altresì importante in quanto contiene i nomi
 e i contatti (email) degli autori. 
