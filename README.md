@@ -108,6 +108,13 @@ Per stimolare la creazione di una vera e propria community intorno al progetto
 è possibile utilizzare degli strumenti di comunicazione, quali ad esempio
 [Gitter](https://gitter.im) o [Slack](https://slack.com). 
 
+## Responsible Disclosure
+
+Questa sezione è importante per comunicare ai contributor quali policy di
+responsible disclosure sono state adottate a livello di community. Per non
+ridondare le informazioni è anche possibile inserire un link alla policy
+adottata a livello di progetto.
+
 ### Code of conduct
 
 Il Code of Conduct regolamenta le interazioni tra i vari attori di un
