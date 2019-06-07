@@ -33,7 +33,7 @@
 
 ### Code of conduct
 
-# Responsible Disclosure
+### Responsible Disclosure
 
 ### Segnalazione bug e richieste di aiuto
 
