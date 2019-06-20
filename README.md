@@ -172,6 +172,8 @@ sua versione estesa è presente in un file dedicato chiamato `LICENSE.md`
 presente, di norma, nella root del repository.  Per avere un aiuto nel percorso
 di scelta di una licenza è possibile visitare
 [Choose a License](https://choosealicense.com/).
+Per i progetti del Team Digitale le licenze preferibili sono
+[queste](https://github.com/teamdigitale/licenses).
 
 ## Autori e Copyright
 
