@@ -120,8 +120,8 @@ adottata a livello di progetto.
 Il Code of Conduct regolamenta le interazioni tra i vari attori di un
 repository. Tendenzialmente è bene che questo incoraggi qualsiasi tipo di
 contribuzione. Esistono diversi template già preimpostati che, dopo attenta
-analisi, si possono incorporare nel proprio progetto. Uno tra questi è la
-[Contributor Covenant](https://www.contributor-covenant.org/). 
+analisi, si possono incorporare nel proprio progetto. Il Team per la
+Trasformazione Digitale adotta [questo Codice](https://www.contributor-covenant.org/). 
 
 ### Segnalazione bug e richieste di aiuto
 
