@@ -20,7 +20,7 @@ al file.
 Tendenzialmente è possibile trovare i badge su
 [shields.io](https://shields.io/) dove si possono anche personalizzare.  Altri
 si possono trovare all'interno delle interfacce dei servizi utilizzati, come ad
-esempio circleci.
+esempio [CircleCI](https://circleci.com).
 
 Per quanto riguarda `/italia`, alcuni badge sono da inserire in tutti i repo
 mentre altri sono opzionali. 
@@ -74,7 +74,6 @@ e/o alcune funzionalità del sito.
 E' anche possibile creare GIF animate che possono essere molto esplicative. Per
 farlo si può utilizzare ad esempio [Recordit](http://recordit.co/).
 
-
 # Indice
 
 Per avere un indice, è possibile usare questo formato:
@@ -91,13 +90,17 @@ Per avere un indice, è possibile usare questo formato:
 Questa sezione contiene una serie di informazioni utili a chi vuole *usare* il
 software (lato utente). 
 Per le informazioni su come contribuire e quindi ad esempio come fare il setup
-dell'ambiente di sviluppo, i dev tool da utilizzare etc. ci sarà una sezione
-dedicata più sotto.
+dell'ambiente di sviluppo, i dev tool da utilizzare etc. ci sarà una [sezione
+dedicata più sotto](#come-contribuire).
 
 ## Come installare
 
 Per permettere ad un utente di fruire del software è necessario fornire alcune
-informazioni relative alle modalità di installazione del software. 
+informazioni relative alle modalità di installazione del software. Questa 
+sezione può contenere dei semplici comandi di configurazione e installazione o 
+la guida all' installazione di un software tramite package manager.
+In caso di particolari configurazioni è meglio rimandare l'utente a una sezione
+dedicata all'interno della documentazione, per mantenere il README scorrevole.
 
 ## Documentazione
 
@@ -112,10 +115,24 @@ e non appesantirlo con informazioni che potrebbero stare altrove.
 
 Questa sezione contiene le informazioni necessarie a chi vuole contribuire
 attivamente al codice sorgente contenuto nel repository. 
-Le informazioni devono servire sia ad eseguire il setup dei tool di sviluppo
-necessari che per quanto riguarda le configurazioni di dev. 
+Le informazioni devono servire ad eseguire il setup dei tool di sviluppo
+necessari e la configurazione di un ambiente di sviluppo.
 
-NB: è necessario spiegare anche la struttura delle directory e dei branches.
+## Installare le dipendenze di sviluppo
+
+Questa sezione contiene tutte le informazioni e le istruzioni necessarie per
+il setup dell'ambiente di sviluppo. In questa sezione è necessario esplicitare i
+comandi per l'installazione delle dipendenze e per l'avvio del progetto in 
+ambiente locale.
+In caso di particolari configurazioni è meglio rimandare l'utente a una sezione
+dedicata all'interno della documentazione, per mantenere il README scorrevole.
+
+## Struttura del progetto
+
+In questa sezione è necessario spiegare la struttura delle directory e dei 
+branches in modo da poter guidare facilmente l'utente all'interno del codice.
+Nel caso il software in questione lo necessiti, è necessario richiamare la
+sezione di architettura all'interno della documentazione. 
 
 ## Community
 
