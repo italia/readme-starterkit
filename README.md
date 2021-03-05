@@ -98,7 +98,7 @@ dedicata più sotto](#come-contribuire).
 Per permettere ad un utente di fruire del software è necessario fornire alcune
 informazioni relative alle modalità di installazione del software. Questa 
 sezione può contenere dei semplici comandi di configurazione e installazione o 
-la guida all' installazione di un software tramite package manager.
+la guida all'installazione di un software tramite il package manager più adeguato.
 In caso di particolari configurazioni è meglio rimandare l'utente a una sezione
 dedicata all'interno della documentazione, per mantenere il README scorrevole.
 
