@@ -28,11 +28,18 @@
 ## Dipendenze
 ## Come installare
 
+```js
+console.log("Questo è un esempio di blocco di codice")
+```
+
 ## Documentazione
 ### Link a documentazione esterna 
 
 # Come contribuire
-## Struttura delle directory / branch
+
+## Installare le dipendenze di sviluppo
+
+## Struttura del progetto
 
 ## Community
 
