@@ -6,7 +6,7 @@ Il file README deve necessariamente restare snello e scorrevole, per
 approfondimenti o specifiche configurazioni del software in questione si deve
 rimandare alla documentazione.
 
-È buona norma utilizzare la sintassi syntax highlighter del Markdown per
+È buona norma utilizzare correttamente la sintassi del formato Markdown per
 evidenziare i comandi da lanciare o particolari blocchi di codice, 
 per maggiori informazioni si veda [come creare e sottlineare i blocchi di codice](https://docs.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks)
 
